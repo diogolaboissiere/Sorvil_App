@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjetoSorvil</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_boas_vindas">BoasVindas</string>
+    <string name="title_activity_cadastro_livro">CadastroLivro</string>
+    <string name="title_activity_buscalivros">Buscalivros</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "336609594411",
+    "firebase_url": "https://sorvilapp-ca2a7.firebaseio.com",
+    "project_id": "sorvilapp-ca2a7",
+    "storage_bucket": "sorvilapp-ca2a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336609594411:android:776f19852fd4f66b",
+        "android_client_info": {
+          "package_name": "com.example.leona.projetosorvil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336609594411-ag2dad9ufjobsm02bkaibmddb7mhac7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXy9NjTRs1-M_wqHSibTjSvV1gQ17dytk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
