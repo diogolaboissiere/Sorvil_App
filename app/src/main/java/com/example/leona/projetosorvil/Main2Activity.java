@@ -103,4 +103,14 @@ public class Main2Activity extends AppCompatActivity { //Classe que representa a
     }
 
 
+
+
+    public void TesteUpload(){
+
+        int i = 1;
+        i = i+1;
+        Toast.makeText(getApplicationContext(), "O valor de i é: " + i, Toast.LENGTH_LONG).show();
+    }
+
+
 }
